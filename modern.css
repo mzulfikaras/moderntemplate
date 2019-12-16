@@ -1,0 +1,204 @@
+#tron {
+  background-image: url(home.jpg);
+  background-size: cover;
+  padding-bottom: 590px;
+  max-width: 100%;
+  height:auto;
+}
+
+#tron img{
+  padding-top: 150px;
+}
+
+#subheader{
+width: 100%;
+}
+
+#navbarNav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+#content {
+  margin-top: 250px;
+}
+
+#content2 {
+  margin-top: 200px;
+}
+
+#content3 {
+  margin-top: 200px;
+  width: 100%;
+}
+
+#content3 #lima{
+  height: 100%;
+  width: 95%;;
+  position: relative;
+}
+
+#content3 #enam{
+  height: 100%;
+  width: 95%;
+  position: relative;
+  overflow: hidden;
+}
+
+#content3 #tujuh{
+  height: 100%;
+  width: 95%;
+  position: relative;
+}
+
+#content3 #lima .over{
+  background-color: dodgerblue;
+  background-position: center;
+  top: 0;
+  position: absolute;
+  height: 100%;
+  width: 95%;
+  opacity: .9;
+  display: none;
+  float: right;
+}
+
+#content3 #lima .paragraf{
+  text-align: center;
+  top: 0;
+  position: absolute;
+  height: 100%;
+  width: 95%;
+  opacity: 1;
+  padding-top:50%;
+  display: none;
+}
+
+#content3 #enam .flow{
+  background-color: dodgerblue;
+  top: 0;
+  position: absolute;
+  height: 100%;
+  width: 95%;
+  opacity: .9;
+  display: none;
+  float: right;
+}
+
+#content3 #enam .para{
+  text-align: center;
+  top: 0;
+  position: absolute;
+  width: 95%;
+  height: 100%;
+  opacity: 1;
+  padding-top:50%;
+  display: none;
+}
+
+
+#content3 #tujuh .xd{
+  background-color: dodgerblue;
+  top: 0;
+  position: absolute;
+  height: 100%;
+  width: 95%;
+  opacity: .9;
+  display: none;
+  float: right;
+}
+
+#content3 #tujuh .graf{
+  text-align: center;
+  top: 0;
+  position: absolute;
+  height: 100%;
+  width: 95%;
+  opacity: 1;
+  padding-top:50%;
+  display: none;
+}
+
+
+
+#content4 {
+  margin-top: 200px;
+}
+
+#content5 {
+  margin-top: 200px;
+}
+
+#content6 {
+  margin-top: 200px;
+}
+
+#footer {
+  background-color: #DCDCDC;
+  margin-top: 200px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+
+#footer i {
+  margin-top: 20px;
+  margin-left: 25px;
+  margin-bottom: 20px;
+  font-size: 70px;
+}
+
+#about{
+  background-image: url(about.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  padding-bottom: 65px;
+}
+
+
+#about img{
+  padding-left: 60px;
+  margin-top: 15px;
+}
+
+#about1{
+  margin-top: 100px;
+}
+
+#about2{
+  margin-top: 200px;
+  text-align: center;
+}
+
+#about2 i{
+  font-size: 40px;
+  color: dodgerblue;
+}
+
+#about3{
+  margin-top: 200px;
+  text-align: center;
+}
+
+#about4{
+  margin-top:200px;
+}
+
+#contact1{
+  margin-top: 100px;
+  text-align: center;
+}
+
+#contact1 i{
+  padding-top: 50px;
+  font-size: 70px;
+}
+
+#maps{
+  margin-top: 100px;
+}
